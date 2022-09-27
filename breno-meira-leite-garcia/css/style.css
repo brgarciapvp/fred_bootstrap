@@ -1,0 +1,139 @@
+#animacao{
+    position: relative;
+    animation: mov-div 2s forwards ;
+  
+}
+@keyframes mov-div{
+    from{top:65px; left:-3000px}
+    to{top:65px; left:0px}
+}
+
+#AnimacaoSobre{
+    position: relative;
+    animation: mov-div1 3s forwards ;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-top: 40px;
+
+}
+@keyframes mov-div1{
+    from{top:65px; left:-3000px}
+    to{top:65px; left:0px}
+}
+#maquete{
+    position: relative;
+    animation: mov-div2 4s forwards ;
+    color: white;
+    margin-bottom: 300px;
+}
+@keyframes mov-div2{
+    from{top:50px; left:-3000px}
+    to{top:50px; left:-280px}
+}
+#app{
+    align-items: center;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    font-family: 'Inter Tight', sans-serif;
+}
+#caroucel{
+    background-color: transparent;
+}
+
+.fundo{
+    background-image: linear-gradient(#011249,#00155a,#001868,#001868,#00176b,#001972,#001e8a,#002096,#002199,#0028bb);
+}
+#equipe{
+    background-color: transparent;
+    color: white;
+   
+}
+#text-equipe{
+    color: white;
+}
+#navs{
+    margin-top: 500px;
+    width: 10000px;
+    margin-left: -11px;
+}
+#cartao{
+    color: black;
+}
+#cartao:hover{
+    box-shadow: 0 30px 45px 0 rgb(0, 17, 255), 0 6px 50px 0 rgba(38, 0, 255, 0.692);
+}
+#applinha{
+    margin-bottom: 200px;
+}
+#titulo{
+    margin-top: 100px;
+    text-align: left;
+}
+#tituloescrito{
+    font-size:100px;
+    color: rgb(255, 255, 255);
+    margin-top: 100PX;
+    font-family: 'Inter Tight', sans-serif;
+}
+#footer{
+    border-top: 2px;
+    border-color: black;
+}
+#projeto{
+    height: 950px;
+    text-align: center;
+    color:white;
+    margin-left: 6%;
+    margin-right: 3%;
+    margin-top: 250px;
+    font-family: 'Inter Tight', sans-serif;
+}
+#colunamaquete{
+    font-family: 'Inter Tight', sans-serif;
+}
+#fotosapp{
+    align-items: center;
+}
+#foto1{
+    margin-left: 320px;
+    margin-bottom:50px ;
+}
+#sla{
+    margin-top: 10%;
+}
+#sla1{
+    margin-top: 5%;
+} 
+#imagem{
+    opacity: 0.8;
+}
+#imagem:hover{
+    opacity: 1.0;
+    
+}
+#caixa{
+    height: 1300px;
+    box-shadow: 0 60px 90px 0 rgb(0, 17, 255), 0 6px 80px 0 rgba(38, 0, 255, 0.692);
+}
+#image_rio{
+    box-shadow: 0 10px 13px 0 rgb(0, 0, 0), 0 6px 20px 0 rgb(0, 0, 0);
+}
+#maquete_foto{
+    height: 500px;
+    margin-left: 5%;
+}
+#nav-text{
+    font-size: 26px;
+    color: white;
+    border: 1px;
+    border-color: white;
+}
+#link-navs{
+  color: black;
+}
+#image_grupo{
+    box-shadow: 0 10px 13px 0 rgb(0, 0, 0), 0 6px 20px 0 rgb(0, 0, 0);
+    height: 400px;
+    margin-top: 40px;
+}

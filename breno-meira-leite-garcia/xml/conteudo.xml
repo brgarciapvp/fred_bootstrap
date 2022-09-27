@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<conteudo>
+			<titulo>
+					PROBLEMATIZAÇÃO: CABEÇAS D’ÁGUA
+			</titulo>
+			<corpo>
+					O problema que deu origem a nosso projeto foram as chamadas cabeças d’água, que são como uma enchente em rios e cachoeiras. A cabeça d’água ocorre quando uma grande quantidade de chuva cai em partes superiores de um rio. Essa chuva faz com que o nível da água do rio suba muito rápido e com muita força levando tudo o que tiver pela frente, resultando assim, em diversos acidentes. 
+					Isto ocorre com frequência no verão, época abundante em chuvas. E é justamente no verão que, locais turísticos como cachoeiras e rios, recebem diversas visitas de turistas. E os turistas são, na grande maioria, pessoas que não conhecem o local e muito menos os riscos de uma cabeça d’água.
+			</corpo>
+			<titulosobre>
+						sobre nosso projeto
+			</titulosobre>
+			<corposobre1>
+ 					Nós somos a ABBY, equipe de alunos da Etec de Registro que está desenvolvendo um projeto de TCC, o Safe River. Nosso projeto visa ajudar na prevenção, manutenção e monitoramento do problema das cabeças d’água.
+           			Nossa equipe é formada por quatro pessoas: A Ana Luisa é responsável pela documentação do projeto, tudo sobre a parte de textos é ela quem cuida. Além de fazer parte da programação do nosso aplicativo mobile.
+            		Breno Garcia é responsável pela programação do site, aplicativo e pela programação do arduino. Para quem não conhece, o arduino é uma plataforma de prototipagem (processo de criação e fabricação de protótipos), open source (código aberto). 
+            		Ele é um dispositivo que facilita a elaboração de projetos robóticos, operando como uma mente eletrônica programável, de fácil uso e com várias portas para conexões com módulos e sensores. 
+			</corposobre1>
+			<corposobre2>
+					O arduino interage com qualquer ambiente por meio de hardware e software, e pode ser ligado a um computador ou a uma rede para o recebimento e envio de dados. 
+            		O segundo Breno da nossa equipe, o Breno Romão, também participou da programação do nosso site.
+            		O Iwin Longhi foi o responsável pela criação da maquete, cujo objetivo era simular o problema do nosso projeto, a cabeça d’água.
+			</corposobre2>
+			<tituloapp>
+					aplicativo
+			</tituloapp>
+			<corpoapp>
+					O aplicativo que possui o mesmo nome que o projeto, Safe River, será conectado ao arduino e aos dois sensores. Por que os sensores recebem as informações das chuvas e do nível da água, mandam para o arduino e fica por isso mesmo? Claro que não. Depois que o arduino receber as informações dos dois sensores, ele as mandará para o aplicativo Safe River, pois ele tem como objetivo avisar aos usuários quando algum local está perigoso. 
+					Este aplicativo será gratuito e estará disponível para qualquer pessoa, tanto para os turistas quanto para os proprietários dos locais turísticos, como cachoeiras, rios, corredeiras... 
+					Dessa forma, qualquer pessoa com o Safe River instalado em seu celular saberá como diversos locais estão em épocas de chuvas, no verão, se a visita é possível ou não. 
+					Está é a parte principal do aplicativo, receber as informações do arduino e notificar os usuários sobre a segurança dos destinos turísticos que possuírem o arduino e os dois sensores instalados.
+					O aplicativo Safe River possui seis telas. 
+					A primeira tela é a do carregamento; a segunda tela é para os usuários já cadastrados no aplicativo fazerem login, colocando seu email e sua senha. A terceira tela é para os novos usuários do app fazerem o seu cadastro, seguindo as orientações do aplicativo. Na quarta tela é possível pesquisar os locais que possuem o arduino instalado, rolando a tela para ver todos os lugares ou colocando na barra de pesquisa.
+			</corpoapp>
+			<titulomaquete>
+					Maquete e Funcionamento
+			</titulomaquete>
+			<corpomaquete>
+					O cerne de nosso projeto é uma maquete que simula a situação de quando uma cabeça d’água atinge um rio. 
+					A nossa maquete é feita com uma placa de isopor para simular a planície do local e canos que simulam o rio, a chuva e também sustentam o isopor. Para simular a chuva, o cano central possui algumas perfurações, assim a agua da chuva cai. 
+					Embaixo da placa de isopor há os canos que sustentam a maquete e o local onde armazenamos a água. Há também outros itens como as duas bombas para fazer a água “andar” e o potenciômetro, mas isso são as partes mais técnicas do projeto. 
+					A parte principal da nossa maquete é o arduino e dois sensores. O arduino possui dois sensores conectados a ele, um para monitorar o nível da água dos rios e o outro para monitorar a frequência das chuvas. 
+					Ou seja, na maquete o arduino está sempre ligado junto com os dois sensores monitorando a frequência das chuvas e o nível da água dos rios. Simulando uma situação onde uma cabeça d’água atinge um rio, suponhamos que a quantidade de chuva que cai sobre um rio é muito grande e por isso o nível da água deste mesmo rio sobe muito rápido. Sendo assim, os dois sensores que estarão instalados nestes locais, receberão as informações e as mandarão para o arduino
+			</corpomaquete>
+			<tituloarduino>
+					Arduino
+			</tituloarduino>
+			<corpoarduino>
+						Arduino é um arduinoO cerne de nosso projeto é uma maquete que simula a situação de quando uma cabeça d’água atinge um rio. 
+					A nossa maquete é feita com uma placa de isopor para simular a planície do local e canos que simulam o rio, a chuva e também sustentam o isopor. Para simular a chuva, o cano central possui algumas perfurações, assim a agua da chuva cai. 
+					Embaixo da placa de isopor há os canos que sustentam a maquete e o local onde armazenamos a água. Há também outros itens como as duas bombas para fazer a água “andar” e o potenciômetro, mas isso são as partes mais técnicas do projeto. 
+					A parte principal da 
+			</corpoarduino>
+	</conteudo>
